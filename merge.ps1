@@ -13,8 +13,8 @@ $chapters = 1..11 | ForEach-Object {
 # 按文件名排序（确保顺序正确）
 $files = Get-ChildItem $archiveDir -Filter "vol1-ch*.md" | Sort-Object Name
 
-if ($files.Count -ne 11) {
-    Write-Warning "Expected 11 chapter files, found $($files.Count)"
+if ($files.Count -ne 10) {
+    Write-Warning "Expected 10 chapter files, found $($files.Count)"
 }
 
 $content = @()
