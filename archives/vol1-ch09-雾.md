@@ -1,4 +1,4 @@
-# 十
+# 九
 
 两个月后，八月十四日，美国商务部发布了一份备忘录。备忘录的标题是"Revised Guidance on Access to Covered Frontier Models by Foreign Nationals"，正文十二页。核心修改只有一处：外国公民可以通过一个新的"可信伙伴"框架申请恢复访问权限，申请流程包括背景审查、使用协议签署、和每季度一次的合规审核。
 
